@@ -14,3 +14,21 @@ Given an integer array nums and an integer k, return the k most frequent element
  * @return {number[]}
  */
 var topKFrequent = function (nums, k) {};
+
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+var productExceptSelf = function (nums) {};
+
+/**
+ * @param {character[][]} board
+ * @return {boolean}
+ */
+var isValidSudoku = function (board) {};
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var longestConsecutive = function (nums) {};

@@ -28,7 +28,11 @@ var containsDuplicate = function (nums) {
  * @param {string} t
  * @return {boolean}
  */
-var isAnagram = function (s, t) {};
+var isAnagram = function (s, t) {
+  let count = {};
+  for (let char of s) {
+  }
+};
 
 /**
  * CHALLENGE [EASY]: Two Sum
