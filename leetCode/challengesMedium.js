@@ -32,3 +32,16 @@ var isValidSudoku = function (board) {};
  * @return {number}
  */
 var longestConsecutive = function (nums) {};
+
+/*
+
+    TWO POINTER SECTION
+
+*/
+
+/**
+ * @param {number[]} numbers
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function (numbers, target) {};
