@@ -16,3 +16,15 @@ var topKFrequent = function (nums, k) {};
  * @return {number[]}
  */
 var productExceptSelf = function (nums) {};
+
+/**
+ * @param {character[][]} board
+ * @return {boolean}
+ */
+var isValidSudoku = function (board) {};
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var longestConsecutive = function (nums) {};
