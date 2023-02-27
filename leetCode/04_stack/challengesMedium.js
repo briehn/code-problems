@@ -35,3 +35,23 @@ MinStack.prototype.getMin = function () {};
  * @return {number}
  */
 var evalRPN = function (tokens) {};
+
+/**
+ * @param {number} n
+ * @return {string[]}
+ */
+var generateParenthesis = function (n) {};
+
+/**
+ * @param {number[]} temperatures
+ * @return {number[]}
+ */
+var dailyTemperatures = function (temperatures) {};
+
+/**
+ * @param {number} target
+ * @param {number[]} position
+ * @param {number[]} speed
+ * @return {number}
+ */
+var carFleet = function (target, position, speed) {};
